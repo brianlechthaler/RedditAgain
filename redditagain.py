@@ -6,7 +6,7 @@ import csv
 import os
 import getpass
 
-#import praw
+"""import praw"""
 
 USER_AGENT = 'RedditAgain by @karangoeluw // github: thekarangoel'
 
